@@ -1,0 +1,17 @@
+C:\Users\ASUS\Documents\CheilPrueba\CheilHotel API\CheilHotel API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\ASUS\Documents\CheilPrueba\CheilHotel API\CheilHotel API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\ASUS\Documents\CheilPrueba\CheilHotel API\CheilHotel API\bin\Debug\netcoreapp2.1\CheilHotel API.deps.json
+C:\Users\ASUS\Documents\CheilPrueba\CheilHotel API\CheilHotel API\bin\Debug\netcoreapp2.1\CheilHotel API.runtimeconfig.json
+C:\Users\ASUS\Documents\CheilPrueba\CheilHotel API\CheilHotel API\bin\Debug\netcoreapp2.1\CheilHotel API.runtimeconfig.dev.json
+C:\Users\ASUS\Documents\CheilPrueba\CheilHotel API\CheilHotel API\bin\Debug\netcoreapp2.1\CheilHotel API.dll
+C:\Users\ASUS\Documents\CheilPrueba\CheilHotel API\CheilHotel API\bin\Debug\netcoreapp2.1\CheilHotel API.pdb
+C:\Users\ASUS\Documents\CheilPrueba\CheilHotel API\CheilHotel API\obj\Debug\netcoreapp2.1\CheilHotel API.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\CheilPrueba\CheilHotel API\CheilHotel API\obj\Debug\netcoreapp2.1\CheilHotel API.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\CheilPrueba\CheilHotel API\CheilHotel API\obj\Debug\netcoreapp2.1\CheilHotel API.AssemblyInfo.cs
+C:\Users\ASUS\Documents\CheilPrueba\CheilHotel API\CheilHotel API\obj\Debug\netcoreapp2.1\CheilHotel API.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\CheilPrueba\CheilHotel API\CheilHotel API\obj\Debug\netcoreapp2.1\CheilHotel API.RazorAssemblyInfo.cache
+C:\Users\ASUS\Documents\CheilPrueba\CheilHotel API\CheilHotel API\obj\Debug\netcoreapp2.1\CheilHotel API.RazorAssemblyInfo.cs
+C:\Users\ASUS\Documents\CheilPrueba\CheilHotel API\CheilHotel API\obj\Debug\netcoreapp2.1\CheilHotel API.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Documents\CheilPrueba\CheilHotel API\CheilHotel API\obj\Debug\netcoreapp2.1\CheilHotel API.dll
+C:\Users\ASUS\Documents\CheilPrueba\CheilHotel API\CheilHotel API\obj\Debug\netcoreapp2.1\CheilHotel API.pdb
+C:\Users\ASUS\Documents\CheilPrueba\CheilHotel API\CheilHotel API\obj\Debug\netcoreapp2.1\CheilHotel API.genruntimeconfig.cache
