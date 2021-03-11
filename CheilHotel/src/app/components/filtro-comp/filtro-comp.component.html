@@ -3,25 +3,25 @@
     <div class = "row">
         <div class = "col">
             <div class= "form-group">
-                <input type="text" class="form-control" placeholder="Seleccione características">
+                <input type="text" class="form-control" name= "filtroHotel" placeholder= "Buscar" [(ngModel)] = "filtroHotel">
             </div>
         </div>
     </div>
     <div class="row">
         <div class="col">
-            <table>
+            <table class="table table-striped">
                 <thead>
                     <tr>
-                        <th>id</th>
-                        <th>Title</th>
-                        <th>Date</th>
+                        <th>Id</th>
+                        <th>Nombre</th>
+                        <th>Estrellas</th>
                     </tr>
                 </thead>
                 <tbody>
-                    <tr *ngFor="let post of filtro">
-                        <td>{{filtro.id}}</td>
-                        <td>{{filtro.title}}</td>
-                        <td>{{filtro.date}}</td>
+                    <tr *ngFor="let filtrar of filtrar | pipe:filtroHotel">
+                        <td>{{filtrar.id}}</td>
+                        <td>{{filtrar.hotel}}</td>
+                        <td>{{filtrar.estrellas}}</td>
                     </tr>
                 </tbody>
             </table>
