@@ -1,0 +1,30 @@
+<div class="container">
+    <h3 class = "mb-5 mt-5 text-primary">Seleccione las características</h3>
+    <div class = "row">
+        <div class = "col">
+            <div class= "form-group">
+                <input type="text" class="form-control" placeholder="Seleccione características">
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <table>
+                <thead>
+                    <tr>
+                        <th>id</th>
+                        <th>Title</th>
+                        <th>Date</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let post of filtro">
+                        <td>{{filtro.id}}</td>
+                        <td>{{filtro.title}}</td>
+                        <td>{{filtro.date}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
